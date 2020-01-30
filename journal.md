@@ -9,4 +9,5 @@ We learned about computational thinking, which consists of decomposition, Patter
 I learned how to use Github and learned about computational thinking.
 
 3.What questions do I have?
+
 How many different languages of coding are there?
