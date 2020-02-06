@@ -11,3 +11,17 @@ I learned how to use Github and learned about computational thinking.
 3.What questions do I have?
 
 How many different languages of coding are there?
+
+# Second Class 
+
+1.What did we do?
+
+We played around with Processing and learned how to make circles, squares, and combine colors. 
+
+2.What did you learn?
+
+I learned about how to make things as a random size and using random colors, which I thought was very cool.
+
+3.What questions do I have?
+
+How do I make a dice? 
