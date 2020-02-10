@@ -1,7 +1,8 @@
-#These are my coding projects
+# These are my coding projects
 
 Here's the code for the dice
 
+```.py
 def setup():
     size(700,700)
   
@@ -47,4 +48,5 @@ def mouseClicked():
 def draw():
     circle(0,0,0)
     
-    
+```.py
+
