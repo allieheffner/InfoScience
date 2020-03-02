@@ -30,5 +30,5 @@ void loop()
 
 The image of the circuit is shown in Figure 1.
 
-![Circuit](Screenshot_2020-03-02_at_3.22.51_PM.png)
+![Circuit](Screenshot2020-03-02at3.22.51PM.png)
 Here's the circuit 
