@@ -30,7 +30,7 @@ How do I make a dice?
 
 1.What did we do?
 
-We played around with Processing and learned how to make circles, squares, and combine colors. 
+We had a challenge to make our own illusion. 
 
 2.What did you learn?
 
