@@ -1,5 +1,6 @@
-**Traffic Light 
+# Traffic Light using Tinkercad 
 
+```.c
 void setup()
 {
   pinMode(13, OUTPUT);
@@ -24,3 +25,9 @@ void loop()
   digitalWrite(11, LOW);
   delay(1000); // Wait for 1000 millisecond(s)
 }
+
+```
+
+The image of the circuit is shown in Figure 1.
+
+![Circuit]
