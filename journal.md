@@ -40,3 +40,16 @@ I learned about how to make things as a random size and using random colors, whi
 
 How do I make a dice? 
 
+# Online learning progress
+
+1.What did we do?
+
+I worked on the project for coronavirus and followed the video tutorials
+
+2.What did you learn?
+
+I learned more about how to make the circles move and not bump into each other.
+
+3.What questions do I have?
+  
+No questions at the moment.
